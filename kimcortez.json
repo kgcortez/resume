@@ -45,6 +45,11 @@
         "number_of_years": 1
       }]
     },{
+      "category": "Databases",
+      "technologies":[{
+        "name": "MySql",
+      }]
+    },{
       "category": "Version Control",
       "technologies":[{
         "name": "Git",
