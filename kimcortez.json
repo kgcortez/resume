@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Kim Isle G. Cortez",
-    "label": "iOS Developer",
+    "label": "Mobile Developer (iOS)/Interim Team Lead",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdLAAAAJDdmZWQ2MWU2LWNlYTQtNDVlYi1hZGI2LTkyZDRiNmYxNzE1Yg.jpg",
     "email": "kgcortez@rogomi.com",
-    "phone": "+639178197677"
+    "phone": "+63917-819-7677"
   },
   "education": [{
                 "institution": "University of the Philippines Manila",
@@ -19,9 +19,18 @@
              "technologies":[{
                              "name": "Objective-C",
                              "number_of_years": 2
-                             }, {
+                             },
+                             {
                              "name": "Swift",
                              "number_of_years": 1
+                             },
+                             {
+                             "name": "Java",
+                             "number_of_years": 0
+                             },
+                             {
+                             "name": "PHP",
+                             "number_of_years": 0
                              }]
              },{
              "category": "Development",
@@ -30,20 +39,30 @@
                              "number_of_years": 2
                              },
                              {
+                             "name": "Cocoapods",
+                             "number_of_years": 2
+                             },
+                             {
                              "name": "Git",
                              "number_of_years": 2
-                             }]
-             },{
-             "category": "Operating System",
-             "technologies":[{
-                             "name": "Mac OS",
+                             },
+                             {
+                             "name": "JIRA",
+                             "number_of_years": .5
+                             },
+                             {
+                             "name": "Github",
+                             "number_of_years": .5
+                             },
+                             {
+                             "name": "Git",
                              "number_of_years": 2
                              }]
              }
              ],
   "work": [{
            "company": "Rogomi, Inc.",
-           "position": "iOS Developer",
+           "position": "Mobile Developer (iOS)/Interim Team Lead",
            "startDate": "December 2016",
            "endDate": "Present",
            "summary": "- Fixed reported issues on existing mobile applications for iOS. <br/>- Monitor and assign development tasks ensuring on time delivery and satisfactory output.",
@@ -66,14 +85,7 @@
            "endDate": "December 2015",
            "summary": "- Redesigned existing but unpublished iOS application and added new features like requesting quotes via email, and successfully submitted the application to the App Store; Get Certified application.<br/> - Overhauled and implemented a mocked up application for rating PMC store staff, adding features to add new staff and generate and save reports, also rebranded to be released to the App Store; Customer Experience Checklist application",
            "highlights": [],
-           "projects":[{
-                       "name":"Get Certified",
-                       "description":"An application showing information regarding the training center, as well as catalogue of services offered. The app also allows requesting for quotation via email",
-                       "role":"Lead Developer",
-                       "startDate":"2014",
-                       "endDate":"2014",
-                       "technologies":"iOS"
-                       }]
+           "projects":[]
            }
            ],
   "certification": []
