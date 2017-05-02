@@ -45,7 +45,7 @@
            "position": "iOS Developer",
            "startDate": "December 2016",
            "endDate": "Present",
-           "summary": "Fixed reported issues on existing mobile applications for iOS. Monitor and assign development tasks ensuring on time delivery and satisfactory output.",
+           "summary": "- Fixed reported issues on existing mobile applications for iOS. <br/>- Monitor and assign development tasks ensuring on time delivery and satisfactory output.",
            "highlights": [],
            "projects":[]
            },
@@ -54,7 +54,7 @@
            "position": "iOS Developer",
            "startDate": "January 2016",
            "endDate": "October 2016",
-           "summary": "Deployed to Samsung Electronics R&D Philippines.<br/> Debugged Samsung Mobile Print and Samsung Cloud Print reducing reported crashes and removing unexpected application behaviors. Optimized Samsung Mobile Print application reducing user waiting time on loading processes and improving overall user experience. Implemented new features for Samsung Mobile Print and adapted autolayout for the next major version of the application.",
+           "summary": "- Deployed to Samsung Electronics R&D Philippines.<br/> - Debugged Samsung Mobile Print and Samsung Cloud Print reducing reported crashes and removing unexpected application behaviors.<br/> - Optimized Samsung Mobile Print application reducing user waiting time on loading processes and improving overall user experience.<br/> - Implemented new features for Samsung Mobile Print and adapted autolayout for the next major version of the application.",
            "highlights": [],
            "projects":[]
            },
@@ -63,7 +63,7 @@
            "position": "iOS Developer",
            "startDate": "August 2014",
            "endDate": "December 2015",
-           "summary": "Redesigned existing but unpublished iOS application and added new features like requesting quotes via email, and successfully submitted the application to the App Store; Get Certified application. Overhauled and implemented a mocked up application for rating PMC store staff, adding features to add new staff and generate and save reports, also rebranded to be released to the App Store; Customer Experience Checklist application",
+           "summary": "- Redesigned existing but unpublished iOS application and added new features like requesting quotes via email, and successfully submitted the application to the App Store; Get Certified application.<br/> - Overhauled and implemented a mocked up application for rating PMC store staff, adding features to add new staff and generate and save reports, also rebranded to be released to the App Store; Customer Experience Checklist application",
            "highlights": [],
            "projects":[]
            }
