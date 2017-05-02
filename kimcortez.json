@@ -76,7 +76,14 @@
            "endDate": "October 2016",
            "summary": "- Deployed to Samsung Electronics R&D Philippines.<br/> - Debugged Samsung Mobile Print and Samsung Cloud Print reducing reported crashes and removing unexpected application behaviors.<br/> - Optimized Samsung Mobile Print application reducing user waiting time on loading processes and improving overall user experience.<br/> - Implemented new features for Samsung Mobile Print and adapted autolayout for the next major version of the application.",
            "highlights": [],
-           "projects":[]
+           "projects":[{
+                       "name":"Samsung Printing Applications (Samsung Mobile Print/ Samsung Cloud Print)",
+                       "description":"A set of iOS applications for interfacing Samsung printers to allow printing, scanning, faxing, copying on a Samsung using iOS device.",
+                       "role":"iOS Developer",
+                       "startDate":"2016",
+                       "endDate":"2016",
+                       "technologies":"iOS, Web services"
+                       }]
            },
            {
            "company": "Power Mac Center AATC",
@@ -85,7 +92,30 @@
            "endDate": "December 2015",
            "summary": "- Redesigned existing but unpublished iOS application and added new features like requesting quotes via email, and successfully submitted the application to the App Store; Get Certified application.<br/> - Overhauled and implemented a mocked up application for rating PMC store staff, adding features to add new staff and generate and save reports, also rebranded to be released to the App Store; Customer Experience Checklist application",
            "highlights": [],
-           "projects":[]
+           "projects":[{
+                       "name":"Get Certified",
+                       "description":"A catalogue application for training services offered by the training center. Also allows requesting for quotation via email in app.",
+                       "role":"iOS Developer",
+                       "startDate":"2014",
+                       "endDate":"2014",
+                       "technologies":"iOS"
+                       },
+                       {
+                       "name":"Customer Experience Checklist",
+                       "description":"A rating application for assessing skills of store staff and frontliners. The application presents a set of questions for each category to evaluate the staff, and accumulates score to get average rating. Also allows report generation, which can be exported to PDF file.",
+                       "role":"iOS Developer",
+                       "startDate":"2015",
+                       "endDate":"2015",
+                       "technologies":"iOS"
+                       },
+                       {
+                       "name":"Colour Chase",
+                       "description":"A promotional game to showcase iOS development capabilities for the training center, and to encourage people to take the offered iOS app development training course.",
+                       "role":"iOS Developer",
+                       "startDate":"2015",
+                       "endDate":"2015",
+                       "technologies":"iOS"
+                       }]
            }
            ],
   "certification": []
