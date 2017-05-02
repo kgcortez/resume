@@ -48,11 +48,11 @@
                              },
                              {
                              "name": "JIRA",
-                             "number_of_years": .5
+                             "number_of_years": 1
                              },
                              {
                              "name": "Github",
-                             "number_of_years": .5
+                             "number_of_years": 1
                              },
                              {
                              "name": "Git",
