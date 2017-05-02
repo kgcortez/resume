@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kim Isle G. Cortez",
-    "label": "Mobile Developer (iOS)",
+    "label": "iOS Developer",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdLAAAAJDdmZWQ2MWU2LWNlYTQtNDVlYi1hZGI2LTkyZDRiNmYxNzE1Yg.jpg",
     "email": "kgcortez@rogomi.com",
     "phone": "+639178197677"
@@ -22,28 +22,10 @@
                              }, {
                              "name": "Swift",
                              "number_of_years": 1
-                             }, {
-                             "name": "Javascript",
-                             "number_of_years": 7
                              }]
              },{
              "category": "Development Frameworks",
-             "technologies":[{
-                             "name": "Laravel",
-                             "number_of_years": 3
-                             }, {
-                             "name": "Lumen",
-                             "number_of_years": 2
-                             }, {
-                             "name": "Silex",
-                             "number_of_years": 2
-                             }, {
-                             "name": "Yii",
-                             "number_of_years": 2
-                             }, {
-                             "name": "Django",
-                             "number_of_years": 1
-                             }]
+             "technologies":[]
              },{
              "category": "Version Control",
              "technologies":[{
@@ -65,16 +47,7 @@
            "endDate": "Present",
            "summary": "Fixed reported issues on existing mobile applications for iOS. Monitor and assign development tasks ensuring on time delivery and satisfactory output.",
            "highlights": [],
-           "projects":[
-                       {
-                       "name":"Coca-Cola D2C Ecommerce",
-                       "description":"An ecommerce application that enables consumer to order bulk coca-cola products via web. Our main task is to develop new modules and features as well as full customization of the site.",
-                       "role":"Lead Developer",
-                       "startDate":"2016",
-                       "endDate":"Present",
-                       "technologies":"PHP, MySql, Prestashop"
-                       }
-                       ]
+           "projects":[]
            },
            {
            "company": "Yondu",
@@ -83,16 +56,7 @@
            "endDate": "October 2016",
            "summary": "Deployed to Samsung Electronics R&D Philippines. Debugged Samsung Mobile Print and Samsung Cloud Print reducing reported crashes and removing unexpected application behaviors. Optimized Samsung Mobile Print application reducing user waiting time on loading processes and improving overall user experience. Implemented new features for Samsung Mobile Print and adapted autolayout for the next major version of the application.",
            "highlights": [],
-           "projects":[
-                       {
-                       "name":"Coca-Cola D2C Ecommerce",
-                       "description":"An ecommerce application that enables consumer to order bulk coca-cola products via web. Our main task is to develop new modules and features as well as full customization of the site.",
-                       "role":"Lead Developer",
-                       "startDate":"2016",
-                       "endDate":"Present",
-                       "technologies":"PHP, MySql, Prestashop"
-                       }
-                       ]
+           "projects":[]
            },
            {
            "company": "Power Mac Center AATC",
@@ -101,16 +65,7 @@
            "endDate": "October 2015",
            "summary": "Redesigned existing but unpublished iOS application and added new features like requesting quotes via email, and successfully submitted the application to the App Store; Get Certified application. Overhauled and implemented a mocked up application for rating PMC store staff, adding features to add new staff and generate and save reports, also rebranded to be released to the App Store; Customer Experience Checklist application",
            "highlights": [],
-           "projects":[
-                       {
-                       "name":"Coca-Cola D2C Ecommerce",
-                       "description":"An ecommerce application that enables consumer to order bulk coca-cola products via web. Our main task is to develop new modules and features as well as full customization of the site.",
-                       "role":"Lead Developer",
-                       "startDate":"2016",
-                       "endDate":"Present",
-                       "technologies":"PHP, MySql, Prestashop"
-                       }
-                       ]
+           "projects":[]
            }
            ],
   "certification": []
