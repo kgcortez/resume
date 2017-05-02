@@ -67,7 +67,30 @@
            "endDate": "Present",
            "summary": "- Fixed reported issues on existing mobile applications for iOS. <br/>- Monitor and assign development tasks ensuring on time delivery and satisfactory output.",
            "highlights": [],
-           "projects":[]
+           "projects":[{
+                       "name":"WHS Monitor",
+                       "description":"https://itunes.apple.com/au/app/whs-monitor/id1065412557?mt=8",
+                       "role":"iOS Developer",
+                       "startDate":"2016",
+                       "endDate":"Present",
+                       "technologies":"iOS, Web services"
+                       },
+                       {
+                       "name":"Book it",
+                       "description":"https://itunes.apple.com/ph/app/book-it-book-to-be-served-anywhere/id1112486668?mt=8",
+                       "role":"iOS Developer",
+                       "startDate":"2016",
+                       "endDate":"Present",
+                       "technologies":"iOS, Web services"
+                       },
+                       {
+                       "name":"Gava",
+                       "description":"https://itunes.apple.com/us/app/gava-crowdgifting-for-gifts-causes/id1038977912?mt=8",
+                       "role":"iOS Developer",
+                       "startDate":"2016",
+                       "endDate":"2016",
+                       "technologies":"iOS, Web services"
+                       }]
            },
            {
            "company": "Yondu",
