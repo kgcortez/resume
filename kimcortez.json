@@ -26,13 +26,14 @@
                              },
                              {
                              "name": "Java",
-                             "number_of_years": 0
+                             "number_of_years": 3
                              },
                              {
                              "name": "PHP",
-                             "number_of_years": 0
+                             "number_of_years": 3
                              }]
-             },{
+             },
+             {
              "category": "Development",
              "technologies":[{
                              "name": "Xcode",
@@ -53,10 +54,17 @@
                              {
                              "name": "Github",
                              "number_of_years": 1
+                             }]
+             },
+             {
+             "category": "Data Persistence",
+             "technologies":[{
+                             "name": "MySQL",
+                             "number_of_years": 2
                              },
                              {
-                             "name": "Git",
-                             "number_of_years": 2
+                             "name": "Core Data",
+                             "number_of_years": 1
                              }]
              }
              ],
@@ -69,27 +77,27 @@
            "highlights": [],
            "projects":[{
                        "name":"WHS Monitor",
-                       "description":"https://itunes.apple.com/au/app/whs-monitor/id1065412557?mt=8",
+                       "description":"WHS Monitor Mobile provides access to a suite of features to manage, record and report on all aspects of an organisation's health and safety obligations including incident reporting, risk management, audits and inspections, asset maintenance and chemical management.",
                        "role":"iOS Developer",
                        "startDate":"2016",
                        "endDate":"Present",
-                       "technologies":"iOS, Web services"
+                       "technologies":"iOS, Objective-C, Web services"
                        },
                        {
                        "name":"Book it",
-                       "description":"https://itunes.apple.com/ph/app/book-it-book-to-be-served-anywhere/id1112486668?mt=8",
+                       "description":"A booking platform for service providers. The app displays the location and schedule of service providers. Users can set an appointment, and receive notifications for upcoming appointments.",
                        "role":"iOS Developer",
                        "startDate":"2016",
                        "endDate":"Present",
-                       "technologies":"iOS, Web services"
+                       "technologies":"iOS, Objective-C, Web services"
                        },
                        {
-                       "name":"<a href='https://itunes.apple.com/us/app/gava-crowdgifting-for-gifts-causes/id1038977912?mt=8'>Gava</a>",
-                       "description":"",
+                       "name":"Gava",
+                       "description":"A social media crowdgifting platform. The application allows users to launch campaigns and gifts, where other users can contribute to purchase the gift or donation for the campaign.",
                        "role":"iOS Developer",
                        "startDate":"2016",
                        "endDate":"2016",
-                       "technologies":"iOS, Web services"
+                       "technologies":"iOS, Objective-C, Web services"
                        }]
            },
            {
@@ -105,7 +113,7 @@
                        "role":"iOS Developer",
                        "startDate":"2016",
                        "endDate":"2016",
-                       "technologies":"iOS, Web services"
+                       "technologies":"iOS, Objective-C, Swift, Web services"
                        }]
            },
            {
@@ -121,7 +129,7 @@
                        "role":"iOS Developer",
                        "startDate":"2014",
                        "endDate":"2014",
-                       "technologies":"iOS"
+                       "technologies":"iOS, Objective-C"
                        },
                        {
                        "name":"Customer Experience Checklist",
@@ -129,7 +137,7 @@
                        "role":"iOS Developer",
                        "startDate":"2015",
                        "endDate":"2015",
-                       "technologies":"iOS"
+                       "technologies":"iOS, Objective-C"
                        },
                        {
                        "name":"Colour Chase",
@@ -137,7 +145,7 @@
                        "role":"iOS Developer",
                        "startDate":"2015",
                        "endDate":"2015",
-                       "technologies":"iOS"
+                       "technologies":"iOS, Swift"
                        }]
            }
            ],
