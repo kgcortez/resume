@@ -8,7 +8,7 @@
   },
   "education": [{
                 "institution": "University of the Philippines Manila",
-                "course": "Computer Science",
+                "course": "BS Computer Science",
                 "studyType": "Bachelor",
                 "startDate": "2010",
                 "endDate": "2014"
@@ -24,11 +24,11 @@
                              "number_of_years": 1
                              }]
              },{
-             "category": "Development Frameworks",
-             "technologies":[]
-             },{
-             "category": "Version Control",
+             "category": "Development",
              "technologies":[{
+                             "name": "Xcode",
+                             },
+                             {
                              "name": "Git",
                              "number_of_years": 2
                              }]
@@ -65,7 +65,14 @@
            "endDate": "December 2015",
            "summary": "- Redesigned existing but unpublished iOS application and added new features like requesting quotes via email, and successfully submitted the application to the App Store; Get Certified application.<br/> - Overhauled and implemented a mocked up application for rating PMC store staff, adding features to add new staff and generate and save reports, also rebranded to be released to the App Store; Customer Experience Checklist application",
            "highlights": [],
-           "projects":[]
+           "projects":[{
+                       "name":"Get Certified",
+                       "description":"An application showing information regarding the training center, as well as catalogue of services offered. The app also allows requesting for quotation via email",
+                       "role":"Lead Developer",
+                       "startDate":"2014",
+                       "endDate":"2014",
+                       "technologies":"iOS"
+                       }]
            }
            ],
   "certification": []
