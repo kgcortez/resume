@@ -27,6 +27,7 @@
              "category": "Development",
              "technologies":[{
                              "name": "Xcode",
+                             "number_of_years": 2
                              },
                              {
                              "name": "Git",
