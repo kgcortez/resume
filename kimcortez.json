@@ -81,6 +81,7 @@
                        "role":"iOS Developer",
                        "startDate":"2016",
                        "endDate":"Present",
+                       "months":"(7 months)",
                        "technologies":"iOS, Objective-C, Web services"
                        },
                        {
@@ -89,6 +90,7 @@
                        "role":"iOS Developer",
                        "startDate":"2016",
                        "endDate":"Present",
+                       "months":"(3 months)",
                        "technologies":"iOS, Objective-C, Web services"
                        },
                        {
@@ -97,6 +99,7 @@
                        "role":"iOS Developer",
                        "startDate":"2016",
                        "endDate":"2016",
+                       "months":"(3 months)",
                        "technologies":"iOS, Objective-C, Web services"
                        }]
            },
@@ -113,6 +116,7 @@
                        "role":"iOS Developer",
                        "startDate":"2016",
                        "endDate":"2016",
+                       "months":"(6 months)",
                        "technologies":"iOS, Objective-C, Swift, Web services"
                        }]
            },
@@ -129,6 +133,7 @@
                        "role":"iOS Developer",
                        "startDate":"2014",
                        "endDate":"2014",
+                       "months":"(4 months)",
                        "technologies":"iOS, Objective-C"
                        },
                        {
@@ -137,6 +142,7 @@
                        "role":"iOS Developer",
                        "startDate":"2015",
                        "endDate":"2015",
+                       "months":"(7 months)",
                        "technologies":"iOS, Objective-C"
                        },
                        {
@@ -145,6 +151,7 @@
                        "role":"iOS Developer",
                        "startDate":"2015",
                        "endDate":"2015",
+                       "months":"(4 months)",
                        "technologies":"iOS, Swift"
                        }]
            }
