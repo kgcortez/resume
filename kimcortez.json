@@ -13,9 +13,8 @@
                 "startDate": "2010",
                 "endDate": "2014"
                 }],
-  "skills": [
-             {
-             "category": "Programming Languages",
+  "skills": [{
+             "category": "Core Competencies",
              "technologies":[{
                              "name": "Objective-C",
                              "number_of_years": 2
@@ -25,17 +24,6 @@
                              "number_of_years": 1
                              },
                              {
-                             "name": "Java",
-                             "number_of_years": 3
-                             },
-                             {
-                             "name": "PHP",
-                             "number_of_years": 3
-                             }]
-             },
-             {
-             "category": "Development",
-             "technologies":[{
                              "name": "Xcode",
                              "number_of_years": 2
                              },
@@ -46,28 +34,8 @@
                              {
                              "name": "Git",
                              "number_of_years": 2
-                             },
-                             {
-                             "name": "JIRA",
-                             "number_of_years": 1
-                             },
-                             {
-                             "name": "Github",
-                             "number_of_years": 1
                              }]
-             },
-             {
-             "category": "Data Persistence",
-             "technologies":[{
-                             "name": "MySQL",
-                             "number_of_years": 2
-                             },
-                             {
-                             "name": "Core Data",
-                             "number_of_years": 1
-                             }]
-             }
-             ],
+             }],
   "work": [{
            "company": "Rogomi, Inc.",
            "position": "Mobile Developer (iOS)/Interim Team Lead",
@@ -89,7 +57,7 @@
                        "description":"A booking platform for service providers. The app displays the location and schedule of service providers. Users can set an appointment, and receive notifications for upcoming appointments.",
                        "role":"iOS Developer",
                        "startDate":"2016",
-                       "endDate":"Present",
+                       "endDate":"2017",
                        "months":"(3 months)",
                        "technologies":"iOS, Objective-C, Web services"
                        },
@@ -98,7 +66,7 @@
                        "description":"A social media crowdgifting platform. The application allows users to launch campaigns and gifts, where other users can contribute to purchase the gift or donation for the campaign.",
                        "role":"iOS Developer",
                        "startDate":"2016",
-                       "endDate":"2016",
+                       "endDate":"2017",
                        "months":"(3 months)",
                        "technologies":"iOS, Objective-C, Web services"
                        }]
